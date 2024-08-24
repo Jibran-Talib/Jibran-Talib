@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jibran-talib" alt="jibran-talib" /></a> </p>
 
-- 🌱 I’m currently learning **on Node.js and Database**
+- 🌱 I’m currently learning **Node.js and Database**
 
 - 👨‍💻 All of my projects are available at [https://jibran-talib.github.io/jib_portfolio/](https://jibran-talib.github.io/jib_portfolio/)
 
